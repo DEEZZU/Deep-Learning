@@ -1,3 +1,3 @@
-<align='center'> **Deep Learning** </align>
+                                                       **Deep Learning** 
 ----
 Deep Learning : Logistic Regression Assignment with Andrew Ng
